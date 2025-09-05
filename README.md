@@ -17,7 +17,17 @@ assets/          # 게임에 사용되는 이미지 리소스
     platform.png
     sky.png
     star.png
-part1~10         # 단계별 튜토리얼 예제 폴더
+part1~10/         # 단계별 튜토리얼 예제 폴더
+    part1.html
+    part2.html
+    part3.html
+    part4.html
+    part5.html
+    part6.html
+    part7.html
+    part8.html
+    part9.html
+    part10.html
 ```
 
 ## 실행 방법
